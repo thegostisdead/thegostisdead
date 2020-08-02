@@ -7,7 +7,7 @@ on:
 jobs:
   update-readme:
     name: Update Readme with Metrics
-    runs-on: wakatime
+    runs-on: ubuntu-lasted
     steps:
       - uses: thegostisdead/thegostisdead@master
         with:
