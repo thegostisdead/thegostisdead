@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dorian Hardy</h1>
-<h3 align="center">A passionate Computer Science student</h3>
+<h3 align="center">A passionate Computer Science student</h3>     
+<p align="center">
+<img src="https://i.imgur.com/QopQQ3C.gif"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegostisdead" alt="thegostisdead" /> </p>
 
