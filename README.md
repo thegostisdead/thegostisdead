@@ -21,10 +21,6 @@
      <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron.js" width="40" height="40"/> </a>  
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="RaspberryPi" width="40" height="40"/> </a></p>
      
-     
-
-   
-       
 
 </details>
 
@@ -32,3 +28,6 @@
   <a href="https://gitlab.com/thegostisdead" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="20" height="20"/> </a> 
 <a href="https://linkedin.com/in/dorian-hardy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dorian-hardy" height="20" width="20" /></a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
