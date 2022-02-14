@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dorian Hardy</h1>
+<h1 align="center">Hi, I'm Dorian Hardy</h1>
 <h3 align="center">A passionate Computer Science student</h3>     
 <p align="center">
 <img src="https://i.imgur.com/QopQQ3C.gif"/>
